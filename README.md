@@ -103,7 +103,7 @@ AI_Assistant_Hotels/
 ## Author
 
 **Naomi Barranzuela Ali** · Junior Data Analyst  
-[[LinkedIn]](#) · [[Email]](#)
+[LinkedIn](https://www.linkedin.com/in/naomiba/) · [Email](mailto:naomi.nba97@gmail.com)
 
 ---
 
