@@ -65,15 +65,7 @@ AI_Assistant_Hotels/
 ---
 
 ## Analytical Workflow
-
-```
-SQL  →  Data Cleaning & Validation  →  Data Enrichment & Feature Engineering
-     ↓
-Python  →  Exploratory Data Analysis  →  Statistical Analysis  →  KPI Calculation
-     ↓
-Power BI  →  Interactive Dashboard  →  Business Reporting
-```
-
+![Operations Overview](screenshots/workflow.png)
 ---
 
 ## Methodology
