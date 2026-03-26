@@ -1,0 +1,13 @@
+hotel_id,hotel_name,city,country,hotel_type,rooms
+hotel_01,The Well,Sandvika,Norway,spa,231
+hotel_02,Oslo City Hotel,Oslo,Norway,city,180
+hotel_03,Fjord Spa Hotel,Flåm,Norway,spa,95
+hotel_04,Northern Lights Resort,Tromsø,Norway,resort,120
+hotel_05,Bergen Harbor Hotel,Bergen,Norway,city,160
+hotel_06,Arctic Comfort Hotel,Bodø,Norway,city,110
+hotel_07,Trondheim Central Hotel,Trondheim,Norway,city,140
+hotel_08,Stavanger Seaside Hotel,Stavanger,Norway,resort,130
+hotel_09,Lillehammer Mountain Lodge,Lillehammer,Norway,resort,85
+hotel_10,Kristiansand Beach Hotel,Kristiansand,Norway,resort,150
+hotel_11,Ålesund View Hotel,Ålesund,Norway,city,100
+hotel_12,Geilo Alpine Resort,Geilo,Norway,resort,170

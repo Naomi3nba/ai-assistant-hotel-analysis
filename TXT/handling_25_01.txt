@@ -1,0 +1,11 @@
+interaction_id	handled_by	response_time_s	resolved
+INT2025_01_0001	AI	6.2	yes
+INT2025_01_0002	Human	185.4	yes
+INT2025_01_0003	AI	9.8	yes
+INT2025_01_0004	Human	412	yes
+INT2025_01_0005	AI	7.1	yes
+INT2025_01_0006	Ai	-3	no
+INT2025_01_0007	AI		no
+INT2025_01_0008	Human	58.2	yes
+INT2025_01_0009	AI	14.5	yes
+INT2025_01_0010	Human	720	yes

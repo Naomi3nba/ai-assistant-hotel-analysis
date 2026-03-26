@@ -1,0 +1,7 @@
+"metrica","valor"
+"Total records","5033"
+"Unique records for hotel_id and timestamp","4690"
+"Duplicates based on all columns","220"
+"Duplicates based on hotel_id and timestamp","343"
+"% Duplicates based on hotel_id and timestamp","6.82%"
+"% Duplicates based on all columns","4.37%"

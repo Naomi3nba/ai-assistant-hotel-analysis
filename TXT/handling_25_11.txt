@@ -1,0 +1,11 @@
+interaction_id,handled_by,response_time_s,resolved
+INT2025_11_0001,AI,5.3,yes
+INT2025_11_0002,AI,29.7,yes
+INT2025_11_0003,AI,7.5,yes
+INT2025_11_0004,Human,298.1,yes
+INT2025_11_0005,AI,6.0,yes
+INT2025_11_0006,Ai,-1,no
+INT2025_11_0007,Human,175.9,yes
+INT2025_11_0008,Human,405.0,yes
+INT2025_11_0009,AI,,no
+INT2025_11_0010,Human,530.0,yes

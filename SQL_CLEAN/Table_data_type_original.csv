@@ -1,0 +1,8 @@
+"column_name","data_type","character_maximum_length","is_nullable"
+"interaction_id","character varying",30,"YES"
+"timestamp","timestamp without time zone","","YES"
+"hotel_id","character varying",20,"YES"
+"channel","character varying",30,"YES"
+"language","character varying",5,"YES"
+"request_type","character varying",50,"YES"
+"complexity","character varying",20,"YES"

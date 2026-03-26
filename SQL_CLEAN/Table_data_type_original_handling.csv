@@ -1,0 +1,5 @@
+"column_name","data_type","character_maximum_length","is_nullable"
+"interaction_id","character varying",30,"YES"
+"handled_by","character varying",20,"YES"
+"response_time_s","double precision","","YES"
+"resolved","character varying",10,"YES"

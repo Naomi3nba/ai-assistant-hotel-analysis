@@ -1,0 +1,11 @@
+interaction_id,timestamp,hotel_id,channel,language,request_type,complexity
+INT2025_06_0001,2025-06-01 07:05:18,hotel_01,email,NO,info,simple
+INT2025_06_0002,2025-06-01 08:12:44,hotel_03,website_chat,EN,booking,complex
+INT2025_06_0003,2025-06-02 09:40:27,hotel_05,website_chat,NO,service_request,simple
+INT2025_06_0004,2025-06-02 10:58:03,hotel_07,instagram,EN,complaint,complex
+INT2025_06_0005,2025-06-03 11:21:36,hotel_02,email,NO,check_in,simple
+INT2025_06_0006,2025-06-03 11:21:36,hotel_02,email,NO,check_in,simple
+INT2025_06_0007,2025-06-04 13:52:09,hotel_10,facebook,EN,spa_reservation,complex
+INT2025_06_0008,2025-06-05 14:37:41,hotel_09,website_chat,NO,technical_issue,complex
+INT2025_06_0009,2025-06-06 16:18:55,hotel_12,website_chat,EN,info,simple
+INT2025_06_0010,2025-06-07 19:04:28,hotel_99,email,NO,booking,complex
